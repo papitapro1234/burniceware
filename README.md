@@ -23,9 +23,13 @@ cmake --build .
 
 # Demostracion del ransomware y de la herramienta de desencriptacion
 
+#### ransomware
 ![Demostracion del ransomware](https://github.com/papitapro1234/burniceware/blob/main/Imagenes%20y%20GIFs/demostracion%20ransomware.gif)
 
+#### Desencriptacion con herramienta
 ![Demostracion de la herramienta de desencriptacion](https://github.com/papitapro1234/burniceware/blob/main/Imagenes%20y%20GIFs/demostracion%20herramienta%20de%20descifrado.gif)
 
+#### Fuerza bruta a archivo grande
+![Demostracion Herramienta de fuerza bruta](https://github.com/papitapro1234/burniceware/blob/main/Imagenes%20y%20GIFs/Herramienta%20de%20fuerza%20bruta.gif)
 
 # [`TODO ESTE PROYECTO LO EXPLIQUE Y USE EN MI ARTICULO DE MEDIUM, SI LES INTERESA DENLE CLIC A ESTE HIPERVINCULO`](https://medium.com/@jesus_papita_55717/como-una-mala-implementaci%C3%B3n-de-cifrado-puede-salvar-tus-archivos-cifrados-con-un-ransomware-cf6613232efd)
