@@ -1,6 +1,6 @@
 # burniceware
 
-<a href="https://ibb.co/ZpSRgvN1"><img src="https://i.ibb.co/C36p94Ws/wallpaper-to-my-ransomware-real.png" alt="wallpaper-to-my-ransomware-real" border="0"></a>
+<a href="hola"><img src="https://github.com/papitapro1234/burniceware/blob/main/wallpaper_to_my_ransomware_real.png" alt="wallpaper-to-my-ransomware-real" border="0"></a>
 
 ## Un ransomware bastante simple con una vulnerabilidad en el algoritmo de generación de llaves, que permite desencriptar los archivos sin tener la llave generada por el ransomware.
 
